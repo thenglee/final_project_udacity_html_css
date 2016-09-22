@@ -22,3 +22,11 @@ hr {
   margin-top: 1.5em;
   width: 5em;
 }
+
+.text-muted {
+  color: #BCBBBB;
+}
+
+.text-thin {
+  font-weight: 100;
+}
