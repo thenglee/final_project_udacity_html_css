@@ -4,6 +4,10 @@ body {
   font-weight: 300;
 }
 
+h1 {
+  font-size: 3.5em;
+}
+
 .title-logo {
   height: 100%;
   margin-bottom: 0;
