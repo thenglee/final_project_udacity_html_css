@@ -4,16 +4,16 @@ body {
   font-weight: 300;
 }
 
-h1 {
-  font-size: 3.5em;
-}
-
 hr {
   color: #BCBBBB;
   background-color: #BCBBBB;
   border: 0;
   height: 0.2em;
   margin-top: 0.5em;
+}
+
+.title-super {
+  font-size: 3.5em;
 }
 
 .title-logo {
