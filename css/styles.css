@@ -8,6 +8,14 @@ h1 {
   font-size: 3.5em;
 }
 
+hr {
+  color: #BCBBBB;
+  background-color: #BCBBBB;
+  border: 0;
+  height: 0.2em;
+  margin-top: 0.5em;
+}
+
 .title-logo {
   height: 100%;
   margin-bottom: 0;
